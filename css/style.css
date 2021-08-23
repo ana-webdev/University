@@ -1,0 +1,32 @@
+.welcome {
+    top: 270px;
+    left: 140px;
+}
+.section {
+    margin-bottom: 40px;
+}
+.carousel-control-prev-icon {
+    background-image: url(/img/left.svg);
+}
+.carousel-control-next-icon {
+    background-image: url(/img/right.svg);
+}
+.carousel-control-next , .carousel-control-prev {
+    width: 20px;
+
+}
+.carousel-control-prev {
+    left: -25px;
+}
+.carousel-control-next {
+    right: -25px;
+}
+.campus-text {
+    padding-top: 230px;
+    padding-left: 60px;
+}
+.footer-text {
+    font-size: 14px;
+    padding: 5px 30px;
+    margin-bottom: 0px;
+}
